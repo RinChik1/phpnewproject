@@ -27,6 +27,7 @@
     print("HELLOW WORLD!!!! HAHAHAHAAh");
     $p = 5 + $c;
     print($p);
+    //Учим гит так что что то надо написать 
     ?>
     
 </body>
